@@ -1,2 +1,4 @@
-# house-upgrades
-Upgrades for the house
+# List of Things I Want to Do to the House
+
+* [ ] Paint outside
+* [ ] Hang television
