@@ -10,6 +10,7 @@
 
 ## Short-Term
 
+* [ ] Trash compactor
 * [ ] Wire for Ethernet
 * [ ] Hang television in bedroom
 * [ ] Install garbage disposal
