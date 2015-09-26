@@ -11,7 +11,7 @@
 ## Short-Term
 
 * [ ] Trash compactor &mdash; ~$1k
-* [ ] [Wire for Ethernet](Ethernet.md)
+* [ ] [Wire for Ethernet](ethernet.md)
 * [ ] Hang television in bedroom
 * [ ] Install garbage disposal
 
