@@ -2,6 +2,7 @@
 
 ## Urgent
 
+* [ ] Primer outside walls?
 * [ ] Paint outside
 
 ## Have Materials
@@ -10,8 +11,8 @@
 
 ## Short-Term
 
-* [ ] Trash compactor
-* [ ] Wire for Ethernet
+* [ ] Trash compactor &mdash; ~$1k
+* [ ] [Wire for Ethernet](Ethernet.md)
 * [ ] Hang television in bedroom
 * [ ] Install garbage disposal
 * [ ] Smart thermostat
