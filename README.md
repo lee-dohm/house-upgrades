@@ -20,9 +20,12 @@
 
 ## Long-Term
 
+* [ ] Rip out carpet in office
 * [ ] New roof
 * [ ] Solar panels
 * [ ] Tesla PowerWall
 * [ ] Shore up deck
 * [ ] Insta-hot water heater
 * [ ] A/C or heat pump
+
+## House of the Future
