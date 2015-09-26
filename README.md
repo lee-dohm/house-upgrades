@@ -2,11 +2,11 @@
 
 ## Urgent
 
-* [ ] Paint outside
+* [ ] Paint outside &mdash; ~$2,600 plus travel expenses
 
 ## Have Materials
 
-* [ ] Hang television in living room
+* [ ] [Hang television in living room](hang-televisions.md)
 
 ## Short-Term
 
