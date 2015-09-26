@@ -15,8 +15,6 @@
 * [ ] [Wire for Ethernet](Ethernet.md)
 * [ ] Hang television in bedroom
 * [ ] Install garbage disposal
-* [ ] Smart thermostat
-* [ ] Smart lighting
 
 ## Long-Term
 
@@ -29,3 +27,6 @@
 * [ ] A/C or heat pump
 
 ## House of the Future
+
+* [ ] Smart thermostat
+* [ ] Smart lighting
