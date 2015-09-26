@@ -2,7 +2,6 @@
 
 ## Urgent
 
-* [ ] Primer outside walls?
 * [ ] Paint outside
 
 ## Have Materials
