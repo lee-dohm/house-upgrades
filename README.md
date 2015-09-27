@@ -20,7 +20,7 @@
 * [ ] Rip out carpet in office
 * [ ] New roof
 * [ ] Solar panels
-* [ ] Tesla PowerWall
+* [ ] [Tesla PowerWall](http://www.teslamotors.com/powerwall)
 * [ ] Shore up deck
 * [ ] Insta-hot water heater
 * [ ] A/C or heat pump
