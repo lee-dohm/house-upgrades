@@ -22,7 +22,7 @@
 
 * [Gigabit and WiFi Router](http://www.amazon.com/NETGEAR-Nighthawk-AC1900-Gigabit-Router/dp/B00F0DD0I6)
 * [Patch panel](http://www.amazon.com/Cable-Matters%C2%AE-Rackmount-Wallmount-48-Port/dp/B0072K1P8C/)
-* Lots of Cat5e cable
+* Lots of Cat5e cable - Donavan has
 * Crimping and cutting tool - Donavan has
 * Line tester - Donavan has
 * Cable jack ends
