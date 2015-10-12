@@ -25,6 +25,6 @@
 * Lots of Cat5e cable - Donavan has
 * Crimping and cutting tool - Donavan has
 * Line tester - Donavan has
-* Hub for each room.
+* Hub for each room
 * Cable jack ends
 * Faceplates
