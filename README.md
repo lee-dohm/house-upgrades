@@ -2,24 +2,34 @@
 
 ## Urgent
 
-* [ ] Paint outside &mdash; ~$2,600 plus travel expenses
+* [ ] Paint outside &mdash; ~$2,600 plus travel and tools expenses &mdash; Currently in progress
 
 ## Have Materials
 
-* [ ] [Hang television in living room](hang-televisions.md)
+* [ ] [Hang television in living room](hang-televisions.md) &mdash; Alan and I will do while he's here
 
 ## Short-Term
 
-* [ ] Install garbage disposal
+### Prioritized
+
+1. [ ] Install garbage disposal
+1. [ ] Install pressure-assisted toilets
+
+### Whenever
+
 * [ ] Trash compactor &mdash; ~$1k
 * [ ] [Wire for Ethernet](ethernet.md)
 * [ ] Hang television in bedroom
-* [ ] Install pressure-assisted toilets
 
 ## Long-Term
 
+### Prioritized
+
+1. [ ] New roof &mdash; Should be done Spring/Summer of 2016 &mdash; ~$5,000-8,000
+
+### Whenever
+
 * [ ] Rip out carpet in office
-* [ ] New roof
 * [ ] Solar panels
 * [ ] [Tesla PowerWall](http://www.teslamotors.com/powerwall)
 * [ ] Shore up deck
@@ -28,5 +38,5 @@
 
 ## House of the Future
 
-* [ ] Smart thermostat
-* [ ] Smart lighting
+1. [x] Smart thermostat
+1. [ ] Smart lighting
