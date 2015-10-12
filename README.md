@@ -10,10 +10,11 @@
 
 ## Short-Term
 
+* [ ] Install garbage disposal
 * [ ] Trash compactor &mdash; ~$1k
 * [ ] [Wire for Ethernet](ethernet.md)
 * [ ] Hang television in bedroom
-* [ ] Install garbage disposal
+* [ ] Install pressure-assisted toilets
 
 ## Long-Term
 
