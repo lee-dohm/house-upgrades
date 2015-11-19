@@ -29,7 +29,7 @@
 
 ### Whenever
 
-* [ ] Rip out carpet in office
+* [ ] [Office Floor](office-floor.md)
 * [ ] Solar panels
 * [ ] [Tesla PowerWall](http://www.teslamotors.com/powerwall)
 * [ ] Shore up deck
