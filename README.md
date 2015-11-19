@@ -39,4 +39,5 @@
 ## House of the Future
 
 1. [x] Smart thermostat
+1. [ ] Smart fire alarms
 1. [ ] Smart lighting
