@@ -6,7 +6,7 @@
 
 ## Have Materials
 
-* [ ] [Hang television in living room](hang-televisions.md) &mdash; Alan and I will do while he's here
+* [X] Hang television in living room
 
 ## Short-Term
 
