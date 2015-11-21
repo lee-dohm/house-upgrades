@@ -1,11 +1,8 @@
 # List of Things I Want to Do to the House
 
-## Urgent
+## Complete
 
 * [X] Paint outside
-
-## Have Materials
-
 * [X] Hang television in living room
 
 ## Short-Term
