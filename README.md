@@ -10,12 +10,12 @@
 ### Prioritized
 
 1. [ ] Install garbage disposal
+1. [ ] [Wire for Ethernet](ethernet.md)
 1. [ ] Install pressure-assisted toilets
 
 ### Whenever
 
 * [ ] Trash compactor &mdash; ~$1k
-* [ ] [Wire for Ethernet](ethernet.md)
 * [ ] Hang television in bedroom
 
 ## Long-Term
