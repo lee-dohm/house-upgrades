@@ -23,12 +23,12 @@
 ### Prioritized
 
 1. [ ] New roof &mdash; Should be done Spring/Summer of 2016 &mdash; ~$5,000-8,000
+1. [ ] [Tesla PowerWall](http://www.teslamotors.com/powerwall)
 
 ### Whenever
 
 * [ ] [Office Floor](office-floor.md)
 * [ ] Solar panels
-* [ ] [Tesla PowerWall](http://www.teslamotors.com/powerwall)
 * [ ] Shore up deck
 * [ ] Insta-hot water heater
 * [ ] A/C or heat pump
