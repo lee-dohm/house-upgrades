@@ -2,11 +2,6 @@
 
 This is my complete list of home improvement ideas. Since it is my house, I want to not only fix it up but also add cool, geeky, futuristic things to it.
 
-## Complete
-
-* [X] Paint outside
-* [X] Hang television in living room
-
 ## Short-Term
 
 ### Prioritized
@@ -39,7 +34,6 @@ This is my complete list of home improvement ideas. Since it is my house, I want
 
 ### Off-the-Shelf
 
-* [x] Smart thermostat
 * [ ] Smart fire alarms
 * [ ] Smart lighting
 * [ ] Smart door locks
@@ -48,3 +42,9 @@ This is my complete list of home improvement ideas. Since it is my house, I want
 
 * [ ] Smart-phone notification that washer/dryer is done
 * [ ] Energy-usage monitoring
+
+## Complete
+
+* [x] Smart thermostat
+* [x] Paint outside
+* [x] Hang television in living room
