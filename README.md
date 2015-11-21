@@ -2,7 +2,7 @@
 
 ## Urgent
 
-* [X] Paint outside &mdash; ~$2,600 plus travel and tools expenses &mdash; Currently in progress
+* [X] Paint outside
 
 ## Have Materials
 
