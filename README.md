@@ -35,6 +35,9 @@ This is my complete list of home improvement ideas. Since it is my house, I want
 ### Off-the-Shelf
 
 * [ ] Smart fire alarms
+    * [x] Hallway
+    * [ ] Master bedroom
+    * [ ] Guest bedroom
 * [ ] Smart lighting
 * [ ] Smart door locks
 
