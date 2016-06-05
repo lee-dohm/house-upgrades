@@ -53,7 +53,8 @@ This is my complete list of home improvement ideas. Since it is my house, I want
 ### Custom Built
 
 * [ ] Smart-phone notification that washer/dryer is done
-* [ ] Energy-usage monitoring
+* [ ] [Energy-usage monitoring](http://openenergymonitor.org/emon/)
+* [ ] iBeacons for location-aware functionality?
 
 ## Complete
 
