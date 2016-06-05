@@ -39,6 +39,14 @@ This is my complete list of home improvement ideas. Since it is my house, I want
     * [ ] Master bedroom
     * [ ] Guest bedroom
 * [ ] Smart lighting
+    * [x] Office
+    * [x] Master bedroom
+    * [ ] Master bathroom
+    * [ ] Hallway
+    * [ ] Great Room - North
+    * [ ] Great Room - South
+    * [ ] Kitchen
+    * [ ] Dining area
 * [ ] Smart door locks
 
 ### Custom Built
