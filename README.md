@@ -25,6 +25,7 @@ This is my complete list of home improvement ideas. Since it is my house, I want
 ### Whenever
 
 * [ ] [Office Floor](office-floor.md)
+* [ ] [Gas line for barbecue](gas-line-for-barbecue.md)
 * [ ] Solar panels
 * [ ] Shore up deck
 * [ ] Insta-hot water heater
