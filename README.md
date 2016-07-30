@@ -19,7 +19,6 @@ This is my complete list of home improvement ideas. Since it is my house, I want
 
 ### Prioritized
 
-1. [ ] [New roof](new-roof.md) &mdash; Should be done Spring/Summer of 2016
 1. [ ] [Tesla PowerWall](powerwall.md)
 
 ### Whenever
@@ -59,5 +58,6 @@ This is my complete list of home improvement ideas. Since it is my house, I want
 ## Complete
 
 * [x] Smart thermostat
-* [x] Paint outside
+* [x] Paint outside - Completed 11/2015
 * [x] Hang television in living room
+* [x] New roof - Completed 7/2016
